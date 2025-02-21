@@ -24,7 +24,7 @@ I am focused on creating tools that I find useful at home and in my current work
 If you find anything useful, GREAT! If not thats okay feel free to post tips. 
 
 My real passion is security and security based products. 
-I love linux but like a lot of us I look at the world through windows.
+I love linux, containers and my wazuh server but like a lot of us I look at the world through windows.
 
 You'll find a lot of my projects will be written in badly coded powershell. 
 
