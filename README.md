@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi! 
 Im Mick. I love to code some stuff.
 
-Have loved coding for years (my java is a bit rusty) but this is the first time putting anything out publicly (Be gentle).
+Have loved coding for years but this is the first time putting anything out publicly (Be gentle).
 See my projects and enjoy the badly coded mess! 
 
 I am focused on creating tools that I find useful at home and in my current work environment. 
