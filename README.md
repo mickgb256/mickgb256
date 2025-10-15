@@ -48,7 +48,7 @@ I’m a fan of:
 - 📉 Wazuh
 - 💾 Logs (yes, really)
 
-...but like many of us, I often view the world through **Windows**.
+...but like many of us, I often view the world through **Windows**... (tut tut... I know that was insufferable).
 
 ---
 
