@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 Hi! 
 Im Mick. I love to code some stuff.
 
+Not much published here but I am usually tinkering with something.
+
 Have loved coding for years but this is the first time putting anything out publicly (Be gentle).
 See my projects and enjoy the badly coded mess! 
 
