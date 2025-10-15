@@ -14,20 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! 
-Im Mick. I love to code some stuff.
+# Hi, I'm Mick 👋
 
-Not much published here but I am usually tinkering with something.
+Welcome to my GitHub! I'm a **Cyber Security Engineer** with a background in both offensive and defensive security. I spend my time focused on:
 
-Have loved coding for years but this is the first time putting anything out publicly (Be gentle).
-See my projects and enjoy the badly coded mess! 
+- Vulnerability management
+- Incident response and making sense of our XDR
+- Automation, scripting, and solution development
 
-I am focused on creating tools that I find useful at home and in my current work environment. 
-If you find anything useful, GREAT! If not thats okay feel free to post tips. 
+---
 
-My real passion is security and security based products. 
-I love linux, containers and my wazuh server but like a lot of us I look at the world through windows.
+## 🧪 What You'll Find Here
 
-You'll find a lot of my projects will be written in badly coded powershell. 
+This is my experimental zone — I write scripts and tools that I find useful either at home or in my day-to-day work. Some of it’s rough, some of it’s reusable, all of it reflects my curiosity and desire to make security more effective and more accessible.
 
-I do hope however you understand what I am trying to achieve by writing them!
+If you find something useful: **awesome**.  
+If you’ve got tips, suggestions, or ideas: **even better**.
+
+Most of what you’ll find here is written in **PowerShell** — not always elegant, but always written with purpose. I like to build things that solve problems (or at least I thought they solved a problem when I wrote it).
+
+---
+
+## 🔐 A Bit About Me
+
+I’m deeply passionate about security and love building or tweaking tools that help me:
+
+- Detect threats faster
+- Automate noisy or manual tasks
+- Enable others to respond more effectively
+
+I’m a fan of:
+
+- 🐧 Linux
+- 🐋 Containers
+- 📉 Wazuh
+- 💾 Logs (yes, really)
+
+...but like many of us, I often view the world through **Windows**.
+
+---
+
+## 🌍 Elsewhere
+
+You can find me writing, tinkering, or dropping the occasional project at:
+
+🔗 [https://mickb.ovh](https://mickb.ovh)
+
+Thanks for stopping by — and for being kind while reviewing my badly coded messes 😉
+
